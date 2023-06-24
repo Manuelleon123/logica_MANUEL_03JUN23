@@ -19,9 +19,9 @@ int main() {
       count++;
   }
 if (count > 0) {
-  printf("la cadena de caracteres \"%s\" posee el caracter \"%c\"" y se repite %d veces", cadena de caracter, count);
+  printf("la cadena de caracteres \"%s\" posee el caracter \"%c\" y se repite %d veces",cadena, caracter, count);
 } else {
-  printf("la cadena de caracteres  \"%s\" no posee el caracter \"%c\"",cadena de caracter);
+  printf("la cadena de caracteres  \"%s\" no posee el caracter \"%c\"",cadena, caracter);
 }
 return 0;
 }
